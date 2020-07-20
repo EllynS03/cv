@@ -1,0 +1,42 @@
+body {
+  background-color: #df6f6f6;
+  text-align: center;
+}
+
+hr {
+
+  border-style: dotted none none none;
+  border-color: #d6e4f0;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #163172;
+  font-family: segoe print;
+  font-size: 60px;
+}
+
+h3 {
+  color: #1e56a0;
+  font-family: segoe print;
+  font-size: 40px;
+}
+
+P{
+  font-family: segoe print;
+}
+
+ul{
+  list-style-type: none;
+  font-family: segoe print;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table{
+  font-family: segoe print;
+}
